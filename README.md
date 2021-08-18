@@ -11,7 +11,7 @@ Link: [Analyzing_Business_Questions](https://github.com/AyersAuthentic/sql_proje
 This project will work with data form the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information like:
 
 - population -> The population as of 2015
-- population_growth -> The annual population growth rate, as a       percentage.
--area - The total land and water area.
+- population_growth -> The annual population growth rate, as a percentage
+- area -> The total land and water area.
 
 Link: [Analyzing_CIA_Factbook_Data](https://github.com/AyersAuthentic/sql_projects/blob/main/Analyzing_CIA_Factbook_Data_Using_SQLite_and_Python/Analyzing%20CIA%20Factbook.ipynb)
