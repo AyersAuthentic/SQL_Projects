@@ -15,3 +15,8 @@ This project will work with data form the CIA World Factbook, a compendium of st
 - area -> The total land and water area.
 
 Link: [Analyzing_CIA_Factbook_Data](https://github.com/AyersAuthentic/sql_projects/blob/main/Analyzing_CIA_Factbook_Data_Using_SQLite_and_Python/Analyzing%20CIA%20Factbook.ipynb)
+
+## Poject 3: Designing and Creating a Database
+This project demonstrates key skills necessary to design and create a database using python and sql.
+
+Link: [Designing_and_Creating_Database](https://github.com/AyersAuthentic/sql_projects/blob/main/Designing_and_Creating_a_Database/Database%20Design.ipynb)
